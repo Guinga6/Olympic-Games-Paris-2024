@@ -553,7 +553,7 @@ if page == 'Contact Us':
         with open(file_name) as f:
             st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
-     style = """/* CSS Snippet from W3schools: https://www.w3schools.com/howto/howto_css_contact_form.asp */
+     style = """ /* CSS Snippet from W3schools: https://www.w3schools.com/howto/howto_css_contact_form.asp */
           /* Style inputs with type="text", select elements and textareas */
           input[type=message], input[type=email], input[type=text], textarea {
             width: 100%; /* Full width */
@@ -585,7 +585,7 @@ if page == 'Contact Us':
           /* Hide Streamlit Branding */
           #MainMenu {visibility: hidden;}
           footer {visibility: hidden;}
-          header {visibility: hidden;}"""
+          header {visibility: hidden;} """
 
     local_css(style)
 

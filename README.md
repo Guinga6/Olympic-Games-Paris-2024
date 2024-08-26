@@ -41,7 +41,7 @@ To run the app locally, follow these steps:
 
 ## 🌐 View the App
 
-You can also view the app online without any setup by visiting [this link]([https://olympic-games-paris-2024-yu8ehpjkjwhvx74m6rcwsz.streamlit.app/])
+You can also view the app online without any setup by visiting [this link](https://olympic-games-paris-2024-yu8ehpjkjwhvx74m6rcwsz.streamlit.app/)
 
 ## 🌟 Preview
 

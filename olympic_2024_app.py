@@ -552,8 +552,7 @@ if page == 'Contact Us':
     def local_css(file_name):
         with open(file_name) as f:
             st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
-    st.markdown("""
-          /* CSS Snippet from W3schools: https://www.w3schools.com/howto/howto_css_contact_form.asp */
+    st.markdown("""<style>/* CSS Snippet from W3schools: https://www.w3schools.com/howto/howto_css_contact_form.asp */
           /* Style inputs with type="text", select elements and textareas */
           input[type=message], input[type=email], input[type=text], textarea {
             width: 100%; /* Full width */
@@ -580,15 +579,13 @@ if page == 'Contact Us':
           button[type=submit]:hover {
             background-color: #45a049;
           }
-          
-          
           /* Hide Streamlit Branding */
           #MainMenu {visibility: hidden;}
           footer {visibility: hidden;}
-          header {visibility: hidden;}
-     """, unsafe_allow_html = True)
-    #local_css(style)
-
+          header {visibility: hidden;}</style>""", unsafe_allow_html = True)
+    
+     #local_css(style)
+     
     st.header("Get In Touch With Us!", divider='green')
     st.write("#")
 

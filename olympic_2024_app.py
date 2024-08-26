@@ -554,12 +554,11 @@ if page == 'Contact Us':
             st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
 
-    local_css("https://github.com/Guinga6/Olympic-Games-Paris-2024/blob/main/style/style.css")
+    local_css("https://raw.githubusercontent.com/Guinga6/Olympic-Games-Paris-2024/main/style/style.css")
 
     st.header("Get In Touch With Us!", divider='green')
     st.write("#")
 
-                # Documention: https://formsubmit.co/ !!! CHANGE EMAIL ADDRESS !!!
     contact_form = """
                 <form action="https://formsubmit.co/aliguinga2020@gmail.com" method="POST">
                 <input type="hidden" name="_captcha" value="false">

@@ -24,15 +24,18 @@ The Olympic Games Paris 2024 app is a dynamic and interactive platform that allo
 To run the app locally, follow these steps:
 
 Clone the repository:
+
     git clone https://github.com/your-username/Olympic-Games-Paris-2024.git
 
 Navigate to the project directory:
+
     cd Olympic-Games-Paris-2024
 
 Install the required dependencies:
     pip install -r requirements.txt
 
 Run the Streamlit app:
+
     streamlit run olympic_2024_app.py
 
 #🌟 Preview

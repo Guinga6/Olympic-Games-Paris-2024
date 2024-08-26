@@ -32,6 +32,7 @@ Navigate to the project directory:
     cd Olympic-Games-Paris-2024
 
 Install the required dependencies:
+
     pip install -r requirements.txt
 
 Run the Streamlit app:
@@ -64,5 +65,6 @@ Contributions are welcome! If you have ideas for new features or improvements, f
 📧 Contact
 =
 For any questions or suggestions, please reach out to 
+
     aliguinga20200@gmail.com
 

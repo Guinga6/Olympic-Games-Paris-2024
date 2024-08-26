@@ -1,70 +1,70 @@
 # 🏅 Olympic Games Paris 2024 - Streamlit App
 
-Welcome to the Olympic Games Paris 2024 Streamlit App! This project is designed to bring the excitement, history, and data of the Olympic Games right to your screen. Whether you're a sports enthusiast, a data nerd, or just curious about the upcoming Olympics, this app has something for everyone.
+Welcome to the **Olympic Games Paris 2024** Streamlit App! This project is designed to bring the excitement, history, and data of the Olympic Games right to your screen. Whether you're a sports enthusiast, a data nerd, or just curious about the 2024 Olympics, this app has something for everyone.
 
-🎯 Project Overview
-=
-The Olympic Games Paris 2024 app is a dynamic and interactive platform that allows users to explore various aspects of the Olympics, including:
+## 🎯 Project Overview
 
-    Athletes: Detailed profiles of the participating athletes.
-    Events: Information on the different sports and events, including schedules.
-    Medal Tracker: A real-time tracker of medals won by each country.
-    Historical Data: Insights and statistics from past Olympic Games.
-    Live Updates: Keep up with the latest news and updates from Paris 2024.
+The **Olympic Games Paris 2024** app is a dynamic and interactive platform that allows users to explore various aspects of the Olympics, including:
 
-🛠️ Features
-=
-    User-Friendly Interface: Built with Streamlit, the app provides an intuitive and interactive experience.
-    Real-Time Data: Integrated APIs ensure that users have access to the latest information.
-    Data Visualization: Engaging and informative visualizations of Olympic data.
-    Responsive Design: Optimized for desktop and mobile users.
+- **Statistics Overview:** Total number of players, medals awarded, and other key metrics.
+- **Medal Table:** Detailed breakdown of medals by country, including a list of countries without medals.
+- **Sport and Event Medals:** Analysis of medals won in each sport and event.
+- **Data Visualizations:** Engaging and interactive visual representations of the data.
 
-🚀 How to Run the App
-=
+## 🛠️ Features
+
+- **Interactive Data Display:** Easily navigate through different sections to explore detailed information.
+- **Web Scraping:** Real-time data was gathered using web scraping to ensure accuracy and up-to-date statistics.
+- **Comprehensive Medal Analysis:** Understand how each country and sport performed.
+- **Data Visualizations:** Engaging visual representations of Olympic data.
+
+## 🚀 How to Run the App
+
 To run the app locally, follow these steps:
 
-Clone the repository:
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/olympic-games-paris-2024.git
+   ```
+2. **Navigate to the project directory:**
+   ```bash
+   cd olympic-games-paris-2024
+   ```
+3. **Install the required dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. **Run the Streamlit app:**
+   ```bash
+   streamlit run app.py
+   ```
 
-    git clone https://github.com/your-username/Olympic-Games-Paris-2024.git
+## 🌐 View the App
 
-Navigate to the project directory:
+You can also view the app online without any setup by visiting [this link]([https://olympic-games-paris-2024-yu8ehpjkjwhvx74m6rcwsz.streamlit.app/](https://olympic-games-paris-2024-yu8ehpjkjwhvx74m6rcwsz.streamlit.app/)).
 
-    cd Olympic-Games-Paris-2024
+## 🌟 Preview
 
-Install the required dependencies:
+![App Screenshot](path-to-screenshot.png)
 
-    pip install -r requirements.txt
+## 🧠 Technologies Used
 
-Run the Streamlit app:
+- **Python** The core language for building the app.
+- **Streamlit** For creating the web interface.
+- **Pandas** To handle data manipulation.
+- **Plotly/Matplotlib** for data visualization.
+- **BeautifulSoup/Selenium** for web scraping.
 
-    streamlit run olympic_2024_app.py
+## 📚 Learning Goals
 
-#🌟 Preview
-=
-🧠 Technologies Used
+- Develop an understanding of how to present complex data in an interactive and user-friendly way.
+- Enhance skills in data visualization and web scraping.
+- Learn to utilize Streamlit for building informative web apps.
 
-    Python: The core language for building the app.
-    Streamlit: For creating the web interface.
-    Pandas: To handle data manipulation.
-    Plotly/Matplotlib: For creating stunning visualizations.
-    APIs: Integrated to fetch real-time data.
+## 🙌 Contribution
 
-📚 Learning Goals
-=
-This project aims to:
-
-    Enhance understanding of data visualization techniques.
-    Develop skills in using APIs for real-time data integration.
-    Explore the power of Streamlit for building interactive web apps.
-    Learn more about the Olympic Games and its history.
-
-🙌 Contribution
-=
 Contributions are welcome! If you have ideas for new features or improvements, feel free to fork the repository and submit a pull request.
 
-📧 Contact
-=
-For any questions or suggestions, please reach out to 
+## 📧 Contact
 
-    aliguinga20200@gmail.com
-
+For any questions or suggestions, please reach out to [aliguinga2020@gmail.com](aliguinga2020@gmail.com).

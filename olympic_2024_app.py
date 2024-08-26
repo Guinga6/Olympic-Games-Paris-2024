@@ -21,12 +21,12 @@ st.sidebar.write('Made By Ali Guinga, 2024')
 st.sidebar.write('All Rights Reserved')
 
 
-df = pd.read_csv(r'C:\Users\t480\Desktop\olympic app\data\data_of_medal.csv')
-df2 = pd.read_csv(r"C:\Users\t480\Desktop\olympic app\data\medal_detail_data.csv")
+df = pd.read_csv('https://raw.githubusercontent.com/Guinga6/Olympic-Games-Paris-2024/main/data/data_of_medal.csv')
+df2 = pd.read_csv("https://raw.githubusercontent.com/Guinga6/Olympic-Games-Paris-2024/main/data/medal_detail_data.csv")
 #df_medallist = pd.read_csv(r"C:\Users\t480\Desktop\price predection project\medallists.csv")
-df_icon = pd.read_csv(r'C:\Users\t480\Desktop\olympic app\data\icon_sport_data.csv')
-df3 = pd.read_csv(r'C:\Users\t480\Desktop\olympic app\data\medal_table.csv')
-df_bar = pd.read_csv(r"C:\Users\t480\Desktop\olympic app\data\data_for_bar_chart.csv")
+df_icon = pd.read_csv('https://raw.githubusercontent.com/Guinga6/Olympic-Games-Paris-2024/main/data/icon_sport_data.csv')
+df3 = pd.read_csv('https://raw.githubusercontent.com/Guinga6/Olympic-Games-Paris-2024/main/data/medal_table.csv')
+df_bar = pd.read_csv("https://raw.githubusercontent.com/Guinga6/Olympic-Games-Paris-2024/main/data/data_for_bar_chart.csv")
 
 
 

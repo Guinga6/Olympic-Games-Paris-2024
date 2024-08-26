@@ -45,7 +45,7 @@ You can also view the app online without any setup by visiting [this link](https
 
 ## 🌟 Preview
 
-![App Screenshot](https://github.com/Guinga6/Olympic-Games-Paris-2024/blob/main/style/Screenshot%202024-08-26%20045955.png)
+![App Screenshot](https://github.com/Guinga6/Olympic-Games-Paris-2024/blob/ef895218bcc2c352da52be53482e977812660a1e/data/Screenshot%202024-08-26%20045955.png)
 
 ## 🧠 Technologies Used
 
